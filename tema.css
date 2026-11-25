@@ -1,0 +1,15 @@
+﻿:root {
+  --primary: #31232e;
+  --primary-hover: #513449;
+  --accent: #80591c;
+  --paper: #fffdf9;
+  --surface: #f5eee3;
+  --ink: #2d2328;
+  --muted: #63565a;
+  --line: #e4d6c4;
+  --white: #fff;
+  --radius: 8px;
+  --font-body: Arial, Helvetica, sans-serif;
+  --font-heading: Georgia, 'Times New Roman', serif;
+  --width: 1180px;
+}
